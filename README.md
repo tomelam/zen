@@ -1,2 +1,7 @@
 # zen.github.io
-Demos of Zen, a toolkit to enable sequential programming of web apps
+
+Demos of Zen, a toolkit to enable sequential programming of web apps. There's nothing here yet but this README.
+
+See also http://mashweb.club/, https://github.com/Mashweb, https://github.com/Mashweb/seq_webapp_biwascheme, and https://github.com/tomelam.
+
+Older websites, still useful: https://tomelam.blogspot.com/, http://www.tomelam.com/.
