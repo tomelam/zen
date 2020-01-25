@@ -1,4 +1,4 @@
-# zen.github.io
+# zen
 
 Mashweb's JavaScript and BiwaScheme playground. Mainly demos of Zen, a toolkit to enable sequential programming of web apps. There's nothing here yet but this README.
 
